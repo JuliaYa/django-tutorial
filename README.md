@@ -2,4 +2,4 @@
 
 ## First lesson
 
-Python doesn't like additiona spases!!!
+Python is sensitive to extra spaces!!!
