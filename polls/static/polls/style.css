@@ -1,0 +1,17 @@
+body {
+    background: white url("images/sample-bg-image.jpg") no-repeat;
+}
+
+ul.question-list {
+    list-style-type: circle;
+    font: 16px/1.5 Helvetica, Arial, sans-serif;
+}
+
+ul.question-list li {
+    line-height: 1.5;
+    padding: 0;
+    margin-bottom: 10px;
+}
+li a {
+    color: blueviolet;
+}
